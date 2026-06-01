@@ -1,7 +1,7 @@
 **Login-Register_Page_project1
 
 
-This project is a simple login and register page built with HTML, CSS, and JavaScript. It's a great way for beginners to learn how to create user authentication forms for websites.
+This project is a simple login and register page built with HTML, CSS, and JavaScript. It's a great way for beginners to learn how to create user authentication forms for websites..
 
 Features
 **Login Page:** Allows users to log in with their username and password.
